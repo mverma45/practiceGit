@@ -3,15 +3,16 @@ body {
   /* padding: 5em 0 5em 0; */
   font-family: "Courier New", Courier, monospace;
   font-style: normal;
-  font-size: 16px;
-  background-image: url(./img/github.png);
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
+  font-size: 12px;
 }
 
-.git {
-  margin-left: 2em;
+.img {
+  display: flex;
+  flex-direction: column;
+  max-width: 55rem;
+  background-image: url(./img/github.png);
+  background-repeat: no-repeat;
+  opacity: 0.35;
 }
 
 /* .img {
