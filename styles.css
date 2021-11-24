@@ -10,11 +10,6 @@ body {
   display: flex;
   flex-direction: column;
   max-width: 55rem;
-  background-image: url(./img/github.png);
   background-repeat: no-repeat;
   opacity: 0.35;
 }
-
-/* .img {
-  opacity: 0.5;
-} */
